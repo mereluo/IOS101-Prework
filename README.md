@@ -10,21 +10,21 @@ Time spent: **1** hour spent in total
 
 The following **required** functionality is completed:
 
-- [:white_check_mark:] Users are see a screen with three labels and a button
-- [:white_check_mark:] Tapping the button changes the screen color to a random color
+- [✅] Users are seeing a screen with three labels and a button
+- [✅] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
 ## App Brainstorming (Step 4)
-1. Notion
+1. **Notion**
 
 - Customizable workspaces for different projects
 - Rich media embeddings (images, code blocks, databases)
 
-2. Spotify
+2. **Spotify**
 
 - Smart music recommendations
-- Creat different lists to share with friends
+- Create different lists to share with friends
 
 **App Idea: Smart Study Planner**
 Description:
