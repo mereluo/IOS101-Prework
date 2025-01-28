@@ -14,6 +14,8 @@ The following **required** functionality is completed:
 - [✅] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
+<div style="position: relative; padding-bottom: 215.1670951156812%; height: 0;"><iframe src="https://www.loom.com/embed/33b03dc5d49f4532afac6d761624bac0?sid=e17b1424-d033-4646-ae58-cfc78682e393" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 ## App Brainstorming (Step 4)
 1. **Notion**
